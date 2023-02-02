@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "187080856420",
+    "firebase_url": "https://terceiratividade-8ca26-default-rtdb.firebaseio.com",
+    "project_id": "terceiratividade-8ca26",
+    "storage_bucket": "terceiratividade-8ca26.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187080856420:android:e0cffb9b743f5181736071",
+        "android_client_info": {
+          "package_name": "com.example.terceiratividade"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "187080856420-h95dllmtkhl67qvs1l4r5d2qi1g9lnl6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxIwlxlZeV7cGhHW1aEk62NDpIvtuG4oA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "187080856420-h95dllmtkhl67qvs1l4r5d2qi1g9lnl6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
